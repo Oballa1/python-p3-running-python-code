@@ -69,8 +69,8 @@ terminal. You can check which version of Python you're using with this command:
 $ python --version
 Python 3.8.13
 ```
-
-To run the application, enter the command `python filename.py`, where
+python filename.py
+To run the application, enter the command ``, where
 `filename.py` is the relative path to the file you'd like to run:
 
 ```console
